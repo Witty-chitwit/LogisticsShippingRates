@@ -1,22 +1,14 @@
 # LogisticsShippingRates
-You need to run three commands to push local changes to the GitHub repository. Which command will you use when your changes are ready to be moved to the GitHub repository?
-
-
-git push
-
-
-
-git remove -v
-
-
-
-git add
-
-
-
-git commit -m
-
-
-1 point
-2.
-Question 2
+Please consider the below factors while contributing
+Code Style:
+Maintain a consistent code style for readability.
+Documentation:
+Ensure well-documented code for effective collaboration.
+Testing:
+Thoroughly test your changes before submitting a pull request.
+Issue Tracker:
+Check the Issue Tracker for tasks.
+Code Review:
+All contributions undergo a code review process.
+Licensing:
+Contributions are licensed.
